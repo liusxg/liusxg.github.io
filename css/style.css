@@ -34,6 +34,10 @@ body {
   padding-right: 50px;
   padding-top: 20px; }
 
+.high-light-font {
+  color: #c7254e;
+  background-color: #f9f2f4; }
+
 a, button.submit {
   color: #6E7173;
   text-decoration: none;
