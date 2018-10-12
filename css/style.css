@@ -39,7 +39,7 @@ body {
   background-color: #f9f2f4; }
 
 a, button.submit {
-  color: #6190e8;
+  color: #175199;
   text-decoration: none;
   -webkit-transition: all .1s ease-in;
   -moz-transition: all .1s ease-in;
@@ -47,7 +47,7 @@ a, button.submit {
   transition: all .1s ease-in; }
 
 a:hover, a:active {
-  color: #444; }
+  color: #6190e8; }
 
 a:focus {
   outline: auto; }
