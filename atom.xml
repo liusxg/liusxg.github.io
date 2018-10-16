@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Liusxg</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://liusxg.github.io/"/>
+  <updated>2018-10-16T09:31:21.690Z</updated>
+  <id>https://liusxg.github.io/</id>
+  
+  <author>
+    <name>Liusxg</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java语言程序设计-预留关键字</title>
+    <link href="https://liusxg.github.io/2018/10/16/Java%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1-%E9%A2%84%E7%95%99%E5%85%B3%E9%94%AE%E5%AD%97/"/>
+    <id>https://liusxg.github.io/2018/10/16/Java语言程序设计-预留关键字/</id>
+    <published>2018-10-16T09:10:20.000Z</published>
+    <updated>2018-10-16T09:31:21.690Z</updated>
+    
+    <summary type="html">
+    
+      Java一共预留了51个关键字，不同的关键字各自对应的含义如下，在编写代码的过程中，命名不得跟关键字冲突。关键字大概分为7类：访问修饰符，定义或者创建，基础类型，用于调试代码，流程控制，捕获异常，导包。
+    
+    </summary>
+    
+      <category term="Java语言程序设计" scheme="https://liusxg.github.io/categories/Java%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="Java语言程序设计" scheme="https://liusxg.github.io/tags/Java%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="Java" scheme="https://liusxg.github.io/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VUE入坑指南</title>
+    <link href="https://liusxg.github.io/2018/10/12/VUE%E5%85%A5%E5%9D%91%E6%8C%87%E5%8D%97/"/>
+    <id>https://liusxg.github.io/2018/10/12/VUE入坑指南/</id>
+    <published>2018-10-12T07:31:05.000Z</published>
+    <updated>2018-10-12T08:51:27.295Z</updated>
+    
+    <summary type="html">
+    
+      Vue (读音 /vjuː/，类似于 view) 是一套用于构建用户界面的渐进式框架。与其它大型框架不同的是，Vue 被设计为可以自底向上逐层应用。Vue 的核心库只关注视图层，不仅易于上手，还便于与第三方库或既有项目整合。另一方面，当与现代化的工具链以及各种支持类库结合使用时，Vue 也完全能够为复杂的单页应用提供驱动。&lt;!--more--&gt;
+    
+    </summary>
+    
+      <category term="前端" scheme="https://liusxg.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="前端" scheme="https://liusxg.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="VUE" scheme="https://liusxg.github.io/tags/VUE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>算法导论-插入排序（Insertion Sort）</title>
+    <link href="https://liusxg.github.io/2018/10/11/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA-%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F%EF%BC%88Insertion%20Sort%EF%BC%89/"/>
+    <id>https://liusxg.github.io/2018/10/11/算法导论-插入排序（Insertion Sort）/</id>
+    <published>2018-10-11T06:50:00.000Z</published>
+    <updated>2018-10-12T06:57:20.410Z</updated>
+    
+    <summary type="html">
+    
+      插入排序的工作原理是：&lt;span class=&quot;high-light-font&quot;&gt; 通过构建有序序列，对于未排序的序列，在已排序的序列从后往前扫描，找到相应位置插入&lt;/span&gt;。在生活中，最直观插入排序的例子是，整理纸牌。人们在整理纸牌的方法是一张一张的来，通过对比手上已经排好顺序的排列，插入到适合的位置&lt;!--more--&gt;
+    
+    </summary>
+    
+      <category term="算法" scheme="https://liusxg.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="算法" scheme="https://liusxg.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>算法导论-算法分析</title>
+    <link href="https://liusxg.github.io/2018/10/10/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA-%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90/"/>
+    <id>https://liusxg.github.io/2018/10/10/算法导论-算法分析/</id>
+    <published>2018-10-10T09:21:28.000Z</published>
+    <updated>2018-10-12T08:27:19.383Z</updated>
+    
+    <summary type="html">
+    
+      分析一个算法，其实意味着要去预测这个算法需要的资源。虽然我们有时主要关心内存，通信带宽或者计算机硬件这类资源，但是我们通常最关心的是该算法的计算时间。可以说一个算法的计算时间是衡量一个算法是否优质的最重要的一个指标。执行越快的算法我们可以称之为越有效。&lt;!--more--&gt;
+    
+    </summary>
+    
+      <category term="算法" scheme="https://liusxg.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="算法" scheme="https://liusxg.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+</feed>
