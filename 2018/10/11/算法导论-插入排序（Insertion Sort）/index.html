@@ -607,6 +607,7 @@ window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')
     
   <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
   <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+
   <script type="text/javascript">
   var GUEST = ['nick', 'mail', 'link'];
   var meta = 'nick,mail,link';
@@ -615,15 +616,15 @@ window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')
   });
   new Valine({
     el: '#vcomments',
-    verify: false,
-    notify: true,
+    verify: 'false',
+    notify: 'true',
     appId: 'hUTBQL04LuGG1XlPPsPaszso-gzGzoHsz',
     appKey: 'KcTmbRknHP8Re5xGH4LJ4gQc',
     placeholder: 'Just go go',
     avatar: 'mm',
     meta: meta,
     pageSize: '10' || 10,
-    visitor: false
+    visitor: 'false'
   });
   </script>
 
