@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://liusxg.github.io/about/index.html</loc>
+    
+    <lastmod>2019-04-09T13:46:45.742Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://liusxg.github.io/tags/index.html</loc>
     
     <lastmod>2019-04-09T13:41:38.716Z</lastmod>
@@ -75,13 +82,6 @@
     <loc>https://liusxg.github.io/2018/10/11/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA-%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F%EF%BC%88Insertion%20Sort%EF%BC%89/</loc>
     
     <lastmod>2018-10-12T06:57:20.410Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://liusxg.github.io/about/index.html</loc>
-    
-    <lastmod>2018-10-12T02:54:32.667Z</lastmod>
     
   </url>
   
